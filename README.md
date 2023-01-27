@@ -4,7 +4,7 @@
 
 Bevor du loslegen kannst, musst du ein paar Dinge vorbereiten.
 
-1. **[GitHub Desktop Installation](docs/GitHub_Desktop_Installation.md)** GitHub Desktop ist ein Programm, das dir dabei hilft, das Repository zu verwalten. Du kannst es von der offiziellen Website herunterladen und installieren. (https://desktop.github.com)
+1. **[GitHub Desktop Installation](docs/Doku_GitHub_Desktop_Installation.md)** GitHub Desktop ist ein Programm, das dir dabei hilft, das Repository zu verwalten. Du kannst es von der offiziellen Website herunterladen und installieren. (https://desktop.github.com)
 
 ## Wie es funktioniert
 
