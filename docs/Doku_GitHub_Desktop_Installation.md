@@ -7,6 +7,8 @@ Die offizielle GitHub Desktop Seite besuchen, durch Öffnen des folgenden Links:
 
 ### Schritt 2: Herunterladen und Installieren
 1. Die Installer Datei herunterladen.
+
 ![Screenshot der heruntergeladenen Installer Datei](images/GitHubDesktopInstallation_Step1_Image2.png "heruntergeladene Datei")
 2. Die heruntergeladene Installationsdatei ausführen und den Anweisungen des Installationsprogramms folgen.
+
 ![Screenshot des Installer Splash Screens](images/GitHubDesktopInstallation_Step2_Image1.png "Installer Splash Screen")
